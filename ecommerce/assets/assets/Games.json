@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "Red Dead Redemption - 2 (PS4)",
+        "price": 1109.95,
+        "description": "Get ready to tame the Wild West, Red Dead is back with a vengeance and the west may never be the same\nRed Dead Redemption 2 is the sequel to the wildly popular open-world western action-adventure video game\nEdition: Standard Edition",
+        "imageurl": "https://m.media-amazon.com/images/I/51xDl3CQB1L.jpg",
+        "image": "https://m.media-amazon.com/images/I/71WkT0oNY1L._SL1024_.jpg",
+        "rating": {
+            "rate": 4.9,
+            "count": 45
+        }
+    },
+    {
+        "id": 2,
+        "title": "",
+        "price": 1500.25,
+        "description": "",
+        "imageurl": "",
+        "image": "",
+        "rating": {
+            "rate": 3.9,
+            "count": 12
+        }
+    },
+    {
+        "id": 3,
+        "title": "",
+        "price": 909.95,
+        "description": "",
+        "imageurl": "",
+        "image": "",
+        "rating": {
+            "rate": 3.5,
+            "count": 10
+        }
+    },
+    {
+        "id": 4,
+        "title": "",
+        "price": 769.95,
+        "description": "",
+        "imageurl": "",
+        "image": "",
+        "rating": {
+            "rate": 3.6,
+            "count": 20
+        }
+    },
+    {
+        "id": 5,
+        "title": "",
+        "price": 48.95,
+        "description": "",
+        "imageurl": "",
+        "image": "",
+        "rating": {
+            "rate": 3.8,
+            "count": 520
+        }
+    },
+    {
+        "id": 6,
+        "title": "",
+        "price": 39.95,
+        "description": "",
+        "imageurl": "",
+        "image": "",
+        "rating": {
+            "rate": 4.8,
+            "count": 420
+        }
+    },
+    {
+        "id": 7,
+        "title": "",
+        "price": 229.95,
+        "description": "",
+        "imageurl": "",
+        "image": "",
+        "rating": {
+            "rate": 5.0,
+            "count": 330
+        }
+    },
+    {
+        "id": 8,
+        "title": "",
+        "price": 109.95,
+        "description": "",
+        "imageurl": "",
+        "image": "",
+        "rating": {
+            "rate": 2.9,
+            "count": 120
+        }
+    }
+]

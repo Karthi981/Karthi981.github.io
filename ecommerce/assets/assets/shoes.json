@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "name": "NexMart - Casual Sneakers",
+    "category": "NOP",
+    "imageUrl": "https://m.media-amazon.com/images/I/71h8ZzaET1L._UX500_.jpg",
+    "Description": "Product Dimensions \u200F : \u200E 35 x 22 x 13 cm; 600 Grams\nDate First Available \u200F : \u200E 4 February 2021\nManufacturer \u200F : \u200E U.S. POLO ASSN.\nASIN \u200F : \u200E B08VWNCSG5\nItem model number \u200F : \u200E 2FD21125G07\nDepartment \u200F : \u200E mens",
+    "oldPrice": "1899",
+    "price": "799"
+  },
+  {
+    "id": 1,
+    "name": "Asian - Men Bouncer",
+    "category": "Men",
+    "oldPrice": "999",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Ew7qmy9vL._UY625_.jpg",
+    "Description": "Sole: Thermoplastic Elastomers\nClosure: Pull On\nShoe Width: Medium\nUS Polo footwear for Men",
+    "price": "719"
+  },
+  {
+    "id": 2,
+    "name": "Sparx",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/81b9Eh286BL._AC_UL320_.jpg",
+    "Description": "Fit Type: Regular\nShoe Width: Medium\nLight Weight\nHigh on comfort with memory foam in-sock and supportive heel counter",
+    "oldPrice": "1349",
+    "price": "944"
+  },
+  {
+    "id": 3,
+    "name": "U.S. POLO ASSN. Mens Lennart Sneakers",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/61EO1WemX5L._UY625_.jpg",
+    "Description": "Highly slip-resistant; made for most surfaces. Flexible and comfortable; can be used both indoors & outdoors.\nUS Polo Stylish Fashion Sneakers.\nSoft footbed for maximum comfort, Wider Girth and easy to slip-in with lycra lining & Elasticised laces for single-time tying comfort.",
+    "oldPrice": "999",
+    "price": "469"
+  },
+  {
+    "id": 4,
+    "name": "Bacca Bucci Men's Running Shoe",
+    "category": "men",
+    "imageUrl": "https://m.media-amazon.com/images/I/61dKCBfKtSL._UY500_.jpg",
+    "Description": "Package Dimensions \u200F : \u200E 33.9 x 23.4 x 12.1 cm; 970 Grams\nDate First Available \u200F : \u200E 8 September 2020\nManufacturer \u200F : \u200E Bacca Bucci Fashions Private Limited\nASIN \u200F : \u200E B08HNH5Q9S\nItem model number \u200F : \u200E BBMG8176B-07\nCountry of Origin \u200F : \u200E India",
+    "oldPrice": "849",
+    "price": "760"
+  },
+  {
+    "id": 5,
+    "name": "Asian",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/71M5-l4H-aL._AC_UL320_.jpg",
+    "Description": "Fit Type: Regular\nShoe Width: Medium\nLight Weight\nHigh on comfort with memory foam in-sock and supportive heel counter",
+    "oldPrice": "599",
+    "price": "449"
+  },
+  {
+    "id": 6,
+    "name": "Reebok",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/71OEHq3M-9L._AC_UL320_.jpg",
+    "Description": "Product Dimensions \u200F : \u200E 32.3 x 19.6 x 10.7 cm; 500 Grams\nDate First Available \u200F : \u200E 8 July 2022\nManufacturer \u200F : \u200E Arvind Lifestyle Brands Limited\nASIN \u200F : \u200E B0B645ZBT6\nItem model number \u200F : \u200E 2FD22306C02\nCountry of Origin \u200F : \u200E China\nDepartment \u200F : \u200E mens",
+    "oldPrice": "2799",
+    "price": "1196"
+  },
+  {
+    "id": 7,
+    "name": "Sparx",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/81iRr9yEzxL._AC_UL320_.jpg",
+    "Description": "Sole: RubberClosure: Lace-Up\nFit Type: RegularShoe Width: Medium U S Polo Sneakers for men,U S Polo Sneakers for men\nUS Polo footwear",
+    "oldPrice": "1049",
+    "price": "890"
+  },
+  {
+    "id": 8,
+    "name": "Reebok",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/81iqNypAS-L._AC_UL320_.jpg",
+    "Description": "Product Dimensions \u200F : \u200E 35 x 22 x 13 cm; 750 Grams\nDate First Available \u200F : \u200E 5 December 2021\nManufacturer \u200F : \u200E U.S. POLO ASSN.\nASIN \u200F : \u200E B09N2G1CTM\nItem model number \u200F : \u200E 2FD21493G07\nCountry of Origin \u200F : \u200E India\nDepartment \u200F : \u200E mens\nManufacturer \u200F : \u200E U.S. POLO ASSN.",
+    "oldPrice": "3699",
+    "price": "999"
+  },
+  {
+    "id": 9,
+    "name": "Asian",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Uu4ZpqCDL._AC_UL320_.jpg",
+    "Description": "Fit Type: RegularShoe Width: Medium\nLight Weight\nHigh on comfort with memory foam in-sock and supportive heel counter",
+    "oldPrice": "1499",
+    "price": "719"
+  }
+]
