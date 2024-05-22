@@ -1,0 +1,21 @@
+{
+  "access_token": "secret_eBnceARY77kBx2ZTIB1rby7CcBMrnr1qUFpqzZyI02Q",
+  "token_type": "bearer",
+  "bot_id": "fbfbf58d-816a-4146-926a-c94df9e5cbf8",
+  "workspace_name": "BanyanTech",
+  "workspace_icon": null,
+  "workspace_id": "16ee09e4-b890-4d5e-899c-b89a1582ee01",
+  "owner": {
+    "type": "user",
+    "user": {
+      "object": "user",
+      "id": "3978b14b-811c-4703-aff8-795d8ef10bb5",
+      "name": "Karthi raja loganathan",
+      "avatar_url": null,
+      "type": "person",
+      "person": { "email": "karthirajakl.98@gmail.com" }
+    }
+  },
+  "duplicated_template_id": null,
+  "request_id": "a95a97d1-d04d-42fc-a970-28d22db4ac39"
+}
